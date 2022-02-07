@@ -1,4 +1,4 @@
-# Womginx
+# comginx
 
 > Fastest proxy using only nginx as the backend server
 
